@@ -1,0 +1,32 @@
+﻿<Window x:Class="WPFDemo.RadioButtom"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDemo"
+        mc:Ignorable="d"
+        Title="RadioButtom" Height="450" Width="800">
+    <StackPanel>
+        
+        <Label Content="Can you ride a bike ?" FontFamily="segoe UI light" FontSize="30"/>
+        <RadioButton Margin="10" Checked="RadioButton_Checked">
+            <WrapPanel>
+                <Rectangle Fill="Green" Height="16" Width="16"></Rectangle>
+                <TextBlock Foreground="Green" Margin="5 0 0 0">Yes</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="10" Checked="RadioButton_Checked_1">
+            <WrapPanel>
+                <Rectangle Fill="red" Height="16" Width="16"></Rectangle>
+                <TextBlock Foreground="red" Margin="5 0 0 0">No</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="10" Checked="RadioButton_Checked_2">
+            <WrapPanel>
+                <Image Source="C:\Users\hemant.mohapatra\Downloads\download.jfif" Height="16" Width="16"></Image>
+                <TextBlock Margin="5 0 0 0">Maybe</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <Button Content="Go Back" FontFamily="segoe UI light" Height="30" Width="120" Click="Button_Click" />
+    </StackPanel>
+</Window>

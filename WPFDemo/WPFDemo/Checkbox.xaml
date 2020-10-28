@@ -1,0 +1,60 @@
+﻿<Window x:Class="WPFDemo.Checkbox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDemo"
+        mc:Ignorable="d"
+        Title="Checkbox" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock  Text="Subway" HorizontalAlignment="Center" Foreground="Green" FontSize="40" FontFamily="segoe UI light">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.500" Storyboard.TargetProperty="FontSize" To="72"/> 
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.500" Storyboard.TargetProperty="FontSize" To="40"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBlock Text="Customize you order:" FontWeight="Bold" Margin="50 30 0 30">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Foreground" Value="Green"></Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Foreground" Value="red"></Setter>
+                            <Setter Property="TextDecorations" Value="underline"></Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <!--Master checkbox-->
+        <CheckBox Name="AllCheck" IsThreeState="True" Margin="50 0 0 0" Checked="CheckBox_Checked" Unchecked="CheckBox_Checked">Check All</CheckBox>
+        <StackPanel Margin="70 20 0 0">
+            <!--child checkboxes-->
+            <CheckBox Name="Jalapeno" Margin="5" Checked="Jalapeno_Checked" Unchecked="Jalapeno_Checked">Jalapeno</CheckBox>
+            <CheckBox Name="Olives" Margin="5" Checked="Jalapeno_Checked" Unchecked="Jalapeno_Checked">Olives</CheckBox>
+            <CheckBox Name="Cucumber" Margin="5" Checked="Jalapeno_Checked" Unchecked="Jalapeno_Checked">Cucumber</CheckBox>
+            <CheckBox Name="Pickel" Margin="5" Checked="Jalapeno_Checked" Unchecked="Jalapeno_Checked">Pickel</CheckBox>
+        </StackPanel>
+        <Button Content="Go Back" FontFamily="segoe UI light" Height="30" Width="120" Click="Button_Click" />
+    </StackPanel>
+</Window>
