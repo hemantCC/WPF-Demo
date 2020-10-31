@@ -86,5 +86,12 @@ namespace WPFDemo
             this.Hide();
             login.Show();
         }
+
+        private void Button_Click_7(object sender, RoutedEventArgs e)
+        {
+            CRUD crud = new CRUD();
+            this.Hide();
+            crud.Show();
+        }
     }
 }

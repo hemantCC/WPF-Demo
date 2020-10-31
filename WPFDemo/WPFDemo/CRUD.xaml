@@ -1,0 +1,45 @@
+﻿<Window x:Class="WPFDemo.CRUD"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDemo"
+        mc:Ignorable="d"
+        Title="CRUD" Height="450" Width="800">
+    <StackPanel>
+        <DataGrid x:Name="CarDG" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" IsReadOnly="True" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Brand" Binding="{Binding Brand}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Model" Binding="{Binding Model}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="*" ></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Edit" Width="*" >
+                    <DataGridTemplateColumn.CellTemplate >
+                        <DataTemplate >
+                                <Button Content="Edit" Click="OnEdit" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="Delete" Width="*" >
+                    <DataGridTemplateColumn.CellTemplate >
+                        <DataTemplate >
+                                <Button Content="Delete" Click="OnDelete"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Width="250">
+            <Label Content="Brand" />
+            <TextBox  x:Name="Brand" />
+            <Label Content="Model" />
+            <TextBox x:Name="Model" />
+            <Label Content="Price" />
+            <TextBox x:Name="Price" />
+            <Button Content="Add / Edit" Height="30" Width="100" Click="OnAdd" Margin="10"/>
+        </StackPanel>
+        <Button Content="Go Back" FontFamily="segoe UI light" Height="30" Width="120" Click="Button_Click" />
+    </StackPanel>
+</Window>

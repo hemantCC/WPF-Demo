@@ -13,6 +13,9 @@
     <Compile Update="ComboBox.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="CRUD.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Listbox.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -34,6 +37,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ComboBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CRUD.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Listbox.xaml">
