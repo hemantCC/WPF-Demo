@@ -9,7 +9,7 @@
     <StackPanel>
         
         <!--Event Trigger-->
-        <TextBlock  Text="This is Trigger Event " HorizontalAlignment="Center" Foreground="Green" FontSize="40" FontFamily="segoe UI light">
+        <TextBlock  Text="This is Event Trigger" HorizontalAlignment="Center" Foreground="Green" FontSize="40" FontFamily="segoe UI light">
             <TextBlock.Style>
                 <Style TargetType="TextBlock">
                     <Style.Triggers>
@@ -35,7 +35,7 @@
                 </Style>
             </TextBlock.Style>
         </TextBlock>
-        <TextBlock Text="This is Trigger" HorizontalAlignment="Center" FontSize="40" FontFamily="segoe UI light">
+        <TextBlock Text="This is Property Trigger" HorizontalAlignment="Center" FontSize="40" FontFamily="segoe UI light">
             <TextBlock.Style>
                 <Style TargetType="TextBlock">
                     <Setter Property="Foreground" Value="Green"></Setter>
@@ -49,9 +49,10 @@
             </TextBlock.Style>
         </TextBlock>
         
-        <!--Data Grid-->
-        <CheckBox Name="trg" VerticalContentAlignment="Center" Content="Check the box to see Data Grid Text" FontFamily="segoe UI light" FontSize="28"></CheckBox>
-        <TextBlock>
+        <!--Data Trigger-->
+        <StackPanel HorizontalAlignment="Center" Margin="20">
+        <CheckBox Name="trg" VerticalContentAlignment="Center" Content="Check the box to see Data Trigger" FontFamily="segoe UI light" FontSize="28"></CheckBox>
+        <TextBlock >
             <TextBlock.Style>
                 <Style TargetType="TextBlock">
                     <Setter Property="Text" Value="Normal Text"></Setter>
@@ -59,7 +60,7 @@
                     <Setter Property="FontSize" Value="30"></Setter>
                     <Style.Triggers>
                         <DataTrigger Binding="{Binding ElementName=trg, Path=IsChecked  }" Value="True">
-                            <Setter Property="Text" Value="Text from data grid"></Setter>
+                            <Setter Property="Text" Value="Text from Data Trigger"></Setter>
                             <Setter Property="Foreground" Value="Green"></Setter>
                             <Setter Property="FontSize" Value="30"></Setter>
                         </DataTrigger>
@@ -67,6 +68,21 @@
                 </Style>
             </TextBlock.Style>
         </TextBlock>
+
+            <TextBlock Text="Is controlled by external source">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Visibility" Value="Hidden" />
+                        <Setter Property="FontSize" Value="23" />
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=trg, Path=IsChecked}" Value="True">
+                                <Setter Property="Visibility" Value="Visible" />
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </StackPanel>
         <Button Content="Go Back" FontFamily="segoe UI light" Height="30" Width="120" Click="Button_Click" />
     </StackPanel>
 </Window>

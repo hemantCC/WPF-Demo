@@ -93,5 +93,19 @@ namespace WPFDemo
             this.Hide();
             crud.Show();
         }
+
+        private void Button_Click_8(object sender, RoutedEventArgs e)
+        {
+            Binding binding = new Binding();
+            this.Hide();
+            binding.Show();
+        }
+
+        private void Button_Click_9(object sender, RoutedEventArgs e)
+        {
+            DependencyPropertyWindow dp = new DependencyPropertyWindow();
+            this.Hide();
+            dp.Show();
+        }
     }
 }

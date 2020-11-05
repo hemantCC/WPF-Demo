@@ -7,6 +7,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Binding.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Checkbox.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -14,6 +17,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="CRUD.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DependencyPropertyWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Listbox.xaml.cs">
@@ -33,6 +39,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Binding.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Checkbox.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -40,6 +49,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="CRUD.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DependencyPropertyWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Listbox.xaml">

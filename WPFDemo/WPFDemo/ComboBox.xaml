@@ -11,14 +11,15 @@
             <ComboBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal">
-                    <Rectangle Height="25" Width="25" Fill="{Binding Name}" />
-                        <TextBlock Text="{Binding Name}" FontFamily="segoe ui light" />
+                    <Rectangle Name="MyRectangle" Height="25" Width="25" Fill="{Binding Name}" />
+                        <TextBlock x:Name="MyTextBox" Text="{Binding Name}" FontFamily="segoe ui light" />
                     </StackPanel>
                 </DataTemplate>
             </ComboBox.ItemTemplate>
         </ComboBox>
-        <!--<Label Background="{Binding Selected}"  Height="200" Width="500" Margin="5"/>-->
+        <Label Background="{Binding ElementName=MyRectangle, Path=Fill, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"  Height="200" Width="500" Margin="5"/>
+        <!--<Label Background="Beige"  Height="200" Width="500" Margin="5"/>-->
+        <!--<Label Content="{Binding ElementName=MyCombobox , Path=SelectedItem, UpdateSourceTrigger=PropertyChanged, Mode=OneWay}" Height="50" Width="400" FontSize="20" Background="Red" />-->
         <Button Content="Go Back" Height="30" FontFamily="segoe ui light"  Width="120" Click="Button_Click" Margin="5" />
-
     </StackPanel>
 </Window>

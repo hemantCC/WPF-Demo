@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Secondary\\WPFDemo\\WPFDemo\\WPFDemo.csproj": {}
+    "D:\\Github\\WPFDemo\\WPFDemo\\WPFDemo.csproj": {}
   },
   "projects": {
-    "D:\\Secondary\\WPFDemo\\WPFDemo\\WPFDemo.csproj": {
+    "D:\\Github\\WPFDemo\\WPFDemo\\WPFDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Secondary\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
+        "projectUniqueName": "D:\\Github\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
         "projectName": "WPFDemo",
-        "projectPath": "D:\\Secondary\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
+        "projectPath": "D:\\Github\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
         "packagesPath": "C:\\Users\\hemant.mohapatra\\.nuget\\packages\\",
-        "outputPath": "D:\\Secondary\\WPFDemo\\WPFDemo\\obj\\",
+        "outputPath": "D:\\Github\\WPFDemo\\WPFDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hemant.mohapatra\\AppData\\Roaming\\NuGet\\NuGet.Config",

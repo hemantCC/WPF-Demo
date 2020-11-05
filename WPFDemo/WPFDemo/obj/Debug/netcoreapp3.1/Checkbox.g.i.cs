@@ -93,7 +93,7 @@ namespace WPFDemo {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPFDemo;component/checkbox.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPFDemo;V1.0.0.0;component/checkbox.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Checkbox.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,0 +1,13 @@
+﻿<Window x:Class="WPFDemo.DependencyPropertyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDemo"
+        mc:Ignorable="d"
+        Title="DependencyPropertyWindow" Height="450" Width="800">
+    <StackPanel Margin="50">
+        <local:CustomButton SetBackGroundRed="True" Content="Custome Dependency Property is applied over me" Height="30" Width="auto" />
+        <Button Content="Go Back" FontFamily="segoe UI light" Click="Button_Click" Width="120" Height="30" Margin="50" />
+    </StackPanel>
+</Window>

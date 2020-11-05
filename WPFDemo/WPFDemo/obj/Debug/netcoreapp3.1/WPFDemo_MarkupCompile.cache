@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 D:\Secondary\WPFDemo\WPFDemo\App.xaml
-91913568713
+11329162463
 
-141386764925
+17-102935343
 217927398202
-Checkbox.xaml;ComboBox.xaml;CRUD.xaml;Listbox.xaml;LoginPage.xaml;MainWindow.xaml;RadioButtom.xaml;SUM.xaml;Triggers.xaml;
+Binding.xaml;Checkbox.xaml;ComboBox.xaml;CRUD.xaml;DependencyPropertyWindow.xaml;Listbox.xaml;LoginPage.xaml;MainWindow.xaml;RadioButtom.xaml;SUM.xaml;Triggers.xaml;
 
 False
 
