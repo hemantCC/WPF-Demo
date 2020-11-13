@@ -4,6 +4,11 @@
              xmlns:local="clr-namespace:WPFDemo"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ControlTemplate x:Key="validationTemplate">
+            <DockPanel>
+                <TextBlock Foreground="Red" FontSize="20">Invalid !</TextBlock>
+                <AdornedElementPlaceholder/>
+            </DockPanel>
+        </ControlTemplate>
     </Application.Resources>
 </Application>

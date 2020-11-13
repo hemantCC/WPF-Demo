@@ -1,0 +1,14 @@
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\obj\Debug\netcoreapp3.1\EMS.BusinessLayer.csprojAssemblyReference.cache
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\bin\Debug\netcoreapp3.1\EMS.BusinessLayer.deps.json
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\bin\Debug\netcoreapp3.1\EMS.BusinessLayer.dll
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\bin\Debug\netcoreapp3.1\EMS.BusinessLayer.pdb
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\bin\Debug\netcoreapp3.1\EMS.DataAccessLayer.dll
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\bin\Debug\netcoreapp3.1\EMS.Entities.dll
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\bin\Debug\netcoreapp3.1\EMS.DataAccessLayer.pdb
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\bin\Debug\netcoreapp3.1\EMS.Entities.pdb
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\obj\Debug\netcoreapp3.1\EMS.BusinessLayer.AssemblyInfoInputs.cache
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\obj\Debug\netcoreapp3.1\EMS.BusinessLayer.AssemblyInfo.cs
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\obj\Debug\netcoreapp3.1\EMS.BusinessLayer.csproj.CopyComplete
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\obj\Debug\netcoreapp3.1\EMS.BusinessLayer.dll
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\obj\Debug\netcoreapp3.1\EMS.BusinessLayer.pdb
+D:\Primary\EmployeeManagementSystem\EMS.BusinessLayer\obj\Debug\netcoreapp3.1\EMS.BusinessLayer.csproj.CoreCompileInputs.cache

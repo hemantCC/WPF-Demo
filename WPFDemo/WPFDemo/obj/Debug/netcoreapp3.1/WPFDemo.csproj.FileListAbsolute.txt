@@ -76,3 +76,8 @@ D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\WPFDemo.csproj.CopyComplete
 D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\WPFDemo.dll
 D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\WPFDemo.pdb
 D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\WPFDemo.genruntimeconfig.cache
+D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\Validation Modules\ValidationHome.g.cs
+D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\Validation Modules\ValidationRules.g.cs
+D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\Validation Modules\ValidationHome.baml
+D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\Validation Modules\ValidationRules.baml
+D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\App.baml

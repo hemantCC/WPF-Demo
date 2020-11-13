@@ -8,7 +8,7 @@
         Title="Binding" Height="450" Width="800">
     <StackPanel Margin="50">
         <Label Content="Number :" />
-        <TextBox Name="MyTextBox"  Text="{Binding ElementName=MySlider, Path=Value, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"/>
+        <TextBox Name="MyTextBox"  Text="{Binding ElementName=MySlider, Path=Value, UpdateSourceTrigger=PropertyChanged, Mode=Default}"/>
         <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100"/>
         <Button Content="Home" FontFamily="segoe UI light" Width="120" Height="30" Margin="30" Click="Button_Click_1"/>
     </StackPanel>

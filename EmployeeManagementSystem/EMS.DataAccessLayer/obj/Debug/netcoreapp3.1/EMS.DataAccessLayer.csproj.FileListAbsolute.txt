@@ -1,0 +1,12 @@
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\bin\Debug\netcoreapp3.1\EMS.DataAccessLayer.deps.json
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\bin\Debug\netcoreapp3.1\EMS.DataAccessLayer.dll
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\bin\Debug\netcoreapp3.1\EMS.DataAccessLayer.pdb
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\bin\Debug\netcoreapp3.1\EMS.Entities.dll
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\bin\Debug\netcoreapp3.1\EMS.Entities.pdb
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\obj\Debug\netcoreapp3.1\EMS.DataAccessLayer.csprojAssemblyReference.cache
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\obj\Debug\netcoreapp3.1\EMS.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\obj\Debug\netcoreapp3.1\EMS.DataAccessLayer.AssemblyInfo.cs
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\obj\Debug\netcoreapp3.1\EMS.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\obj\Debug\netcoreapp3.1\EMS.DataAccessLayer.csproj.CopyComplete
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\obj\Debug\netcoreapp3.1\EMS.DataAccessLayer.dll
+D:\Primary\EmployeeManagementSystem\EMS.DataAccessLayer\obj\Debug\netcoreapp3.1\EMS.DataAccessLayer.pdb

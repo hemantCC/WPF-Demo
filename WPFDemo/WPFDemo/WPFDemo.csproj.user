@@ -37,6 +37,12 @@
     <Compile Update="Triggers.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Validation Modules\ValidationHome.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Validation Modules\ValidationRules.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Binding.xaml">
@@ -70,6 +76,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Triggers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Validation Modules\ValidationHome.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Validation Modules\ValidationRules.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

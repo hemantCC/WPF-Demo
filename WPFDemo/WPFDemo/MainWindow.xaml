@@ -24,6 +24,7 @@
         <Button  Content="Binding" Grid.Column="1" Grid.Row="2" FontSize="23" FontFamily="segoe UI light" Click="Button_Click_8" />
         <Button  Content="CRUD" Grid.Column="2" Grid.Row="2" FontSize="23" FontFamily="segoe UI light" Click="Button_Click_7" />
         <Button  Content="Dependency Property" Grid.Column="0" Grid.Row="3" FontSize="23" FontFamily="segoe UI light" Click="Button_Click_9" />
+        <Button  Content="Validations" Grid.Column="1" Grid.Row="3" FontSize="23" FontFamily="segoe UI light" Click="Button_Click_10" />
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />

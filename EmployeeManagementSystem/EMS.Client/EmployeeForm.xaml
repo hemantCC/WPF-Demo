@@ -1,0 +1,38 @@
+﻿<Window x:Class="EMS.Client.EmployeeForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EMS.Client"
+        mc:Ignorable="d"
+        Title="EmployeeForm" Height="550" Width="500">
+    <StackPanel>
+        <Label Name="MasterLabel" Content="Add Employee" HorizontalAlignment="Center"  FontFamily="Segoe UI Light" FontSize="30" />
+        <DockPanel Width="300" Margin="0 10">
+            <Label Content="Name" Width="120" FontSize="16" />
+            <TextBox Name="textBoxName" Width="170" />
+        </DockPanel>
+        <DockPanel Width="300" Margin="0 10">
+            <Label Content="Contact" Width="120" FontSize="16" />
+            <TextBox Name="textBoxContact" Width="170" />
+        </DockPanel>
+        <DockPanel Width="300" Margin="0 10">
+            <Label Content="Email" Width="120" FontSize="16" />
+            <TextBox Name="textBoxEmail" Width="170" />
+        </DockPanel>
+        <DockPanel Width="300" Margin="0 10">
+            <Label Content="Address" Width="120" FontSize="16" />
+            <TextBox Name="textBoxAddress"  Width="170" />
+        </DockPanel>
+        <DockPanel Width="300" Margin="0 10">
+            <Label Content="Date of Birth" Width="120" FontSize="16" />
+            <DatePicker Name="datePickerDOB" Width="170"/>
+        </DockPanel>
+        <DockPanel Width="300" Margin="0 40">
+            <Button Name="sbtButton" Content="SAVE" Width="100" Height="30" Click="Button_Click" />
+            <Button Content="CLEAR" Width="100" Click="Button_Click_2" />
+            <Button Content="CANCEL" Width="100" Click="Button_Click_1" />
+           
+        </DockPanel>
+    </StackPanel>
+</Window>

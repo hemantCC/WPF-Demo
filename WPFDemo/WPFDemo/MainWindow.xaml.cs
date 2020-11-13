@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFDemo.Validation_Modules;
 
 namespace WPFDemo
 {
@@ -106,6 +107,13 @@ namespace WPFDemo
             DependencyPropertyWindow dp = new DependencyPropertyWindow();
             this.Hide();
             dp.Show();
+        }
+
+        private void Button_Click_10(object sender, RoutedEventArgs e)
+        {
+            ValidationHome vd = new ValidationHome();
+            vd.Show();
+            this.Hide();
         }
     }
 }

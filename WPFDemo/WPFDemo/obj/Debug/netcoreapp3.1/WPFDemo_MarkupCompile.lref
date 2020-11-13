@@ -1,5 +1,5 @@
-﻿D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
-
+﻿
+FD:\Secondary\WPFDemo\WPFDemo\App.xaml;;
 FD:\Secondary\WPFDemo\WPFDemo\Binding.xaml;;
 FD:\Secondary\WPFDemo\WPFDemo\Checkbox.xaml;;
 FD:\Secondary\WPFDemo\WPFDemo\ComboBox.xaml;;
@@ -11,4 +11,6 @@ FD:\Secondary\WPFDemo\WPFDemo\MainWindow.xaml;;
 FD:\Secondary\WPFDemo\WPFDemo\RadioButtom.xaml;;
 FD:\Secondary\WPFDemo\WPFDemo\SUM.xaml;;
 FD:\Secondary\WPFDemo\WPFDemo\Triggers.xaml;;
+FD:\Secondary\WPFDemo\WPFDemo\Validation Modules\ValidationHome.xaml;;
+FD:\Secondary\WPFDemo\WPFDemo\Validation Modules\ValidationRules.xaml;;
 

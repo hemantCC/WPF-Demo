@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Github\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\
+D:\Secondary\WPFDemo\WPFDemo\obj\Debug\netcoreapp3.1\
 WPFDemo
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-D:\Github\WPFDemo\WPFDemo\App.xaml
-11329162463
+D:\Secondary\WPFDemo\WPFDemo\App.xaml
+13814579043
 
-19927142848
+22981511111
 217927398202
-Binding.xaml;Checkbox.xaml;ComboBox.xaml;CRUD.xaml;DependencyPropertyWindow.xaml;Listbox.xaml;LoginPage.xaml;MainWindow.xaml;RadioButtom.xaml;SUM.xaml;Triggers.xaml;
+Binding.xaml;Checkbox.xaml;ComboBox.xaml;CRUD.xaml;DependencyPropertyWindow.xaml;Listbox.xaml;LoginPage.xaml;MainWindow.xaml;RadioButtom.xaml;SUM.xaml;Triggers.xaml;Validation Modules\ValidationHome.xaml;Validation Modules\ValidationRules.xaml;
 
 False
 
