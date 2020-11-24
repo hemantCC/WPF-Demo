@@ -15,43 +15,33 @@ namespace Assignment_1.ViewModels
 {
     public class EmployeeViewModel
     {
+        #region Private Variables
+
         private List<Employee> _employees;
+        private int _id;
+        private string _name;
+        private string _email;
+        private string _contact;
+
+        #endregion
+
+        #region Constructor
+
         public EmployeeViewModel()
         {
             _employees = new List<Employee>();
             LoadData();
         }
 
-        private void LoadData()
-        {
-            using (var _context =  new DbEmployeeContext())
-            {
-                var Employees = _context.TblEmployees.ToList();
-                foreach (var employee in Employees)
-                {
-                    Employee Employee = new Employee()
-                    {
-                        Id = employee.Id,
-                        Name = employee.Name,
-                        Contact = employee.Contact,
-                        Email = employee.Email
-                    };
-                    _employees.Add(Employee);
-                }
-            }
-        }
+        #endregion
+
+        #region Public Properties
 
         public List<Employee> Employees
         {
             get { return _employees; }
             set { _employees = value; }
         }
-
-        private int _id;
-        private string _name;
-        private string _email;
-        private string _contact;
-
 
 
         public int Id
@@ -104,6 +94,41 @@ namespace Assignment_1.ViewModels
             set { _validateInputCommand = value; }
         }
 
+        #endregion
+
+        #region Private Methods
+
+
+        /// <summary>
+        /// Loads the data.
+        /// </summary>
+        private void LoadData()
+        {
+            using (var _context =  new DbEmployeeContext())
+            {
+                var Employees = _context.TblEmployees.ToList();
+                foreach (var employee in Employees)
+                {
+                    Employee Employee = new Employee()
+                    {
+                        Id = employee.Id,
+                        Name = employee.Name,
+                        Contact = employee.Contact,
+                        Email = employee.Email
+                    };
+                    _employees.Add(Employee);
+                }
+            }
+        }
+
+
+        /// <summary>
+        /// Determines whether this instance [can execute method] the specified parameter.
+        /// </summary>
+        /// <param name="parameter">The parameter.</param>
+        /// <returns>
+        ///   <c>true</c> if this instance [can execute method] the specified parameter; otherwise, <c>false</c>.
+        /// </returns>
         private bool _canExecuteMethod(object parameter)
         {
             if (ValidateMembers())
@@ -177,10 +202,7 @@ namespace Assignment_1.ViewModels
                 return false;
         }
 
-
-
-
-
+        #endregion
 
     }
 }
