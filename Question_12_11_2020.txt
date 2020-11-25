@@ -1,5 +1,0 @@
-•	Binding
-o	Add a button in User data grid Page named "Edit User data"
-o	On clicking show registration page pre-filled user data using binding with VM
-o	Use all binding Modes to show & save data in VM
-o	Handle Edit pass/fail scenarios i.e if validation failed the VM should retain original values

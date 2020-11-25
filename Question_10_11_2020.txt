@@ -1,3 +1,0 @@
-Todays Assignment
-1. Create Simple Applaction using .net core Web API in Repository Pattern'
-2. Any once Real time example using dependency injection in .net ocre

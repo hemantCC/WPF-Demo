@@ -1,0 +1,36 @@
+D:\Primary\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.deps.json
+D:\Primary\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.runtimeconfig.json
+D:\Primary\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.runtimeconfig.dev.json
+D:\Primary\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.dll
+D:\Primary\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.pdb
+D:\Primary\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.csprojAssemblyReference.cache
+D:\Primary\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.AssemblyInfoInputs.cache
+D:\Primary\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.AssemblyInfo.cs
+D:\Primary\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.csproj.CoreCompileInputs.cache
+D:\Primary\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.dll
+D:\Primary\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.pdb
+D:\Primary\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.genruntimeconfig.cache
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.deps.json
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.runtimeconfig.json
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.runtimeconfig.dev.json
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.dll
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.pdb
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.csprojAssemblyReference.cache
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.AssemblyInfoInputs.cache
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.AssemblyInfo.cs
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.csproj.CoreCompileInputs.cache
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.dll
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.pdb
+D:\WPF\Assignments\Assignment_10_11_2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.genruntimeconfig.cache
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.deps.json
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.runtimeconfig.json
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.runtimeconfig.dev.json
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.dll
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.pdb
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.csprojAssemblyReference.cache
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.AssemblyInfoInputs.cache
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.AssemblyInfo.cs
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.csproj.CoreCompileInputs.cache
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.dll
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.pdb
+\\10.0.2.146\Project Group\Hemant\Assignments\Assignment 10-11-2020\EmployeeManagementSystem\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.genruntimeconfig.cache

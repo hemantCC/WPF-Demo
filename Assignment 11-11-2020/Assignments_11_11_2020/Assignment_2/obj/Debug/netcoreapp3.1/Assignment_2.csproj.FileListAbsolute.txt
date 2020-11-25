@@ -1,0 +1,42 @@
+D:\Primary\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.exe
+D:\Primary\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.deps.json
+D:\Primary\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.runtimeconfig.json
+D:\Primary\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.runtimeconfig.dev.json
+D:\Primary\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.dll
+D:\Primary\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.pdb
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.csprojAssemblyReference.cache
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2_MarkupCompile.cache
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2_MarkupCompile.lref
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.g.resources
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.AssemblyInfoInputs.cache
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.AssemblyInfo.cs
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.csproj.CoreCompileInputs.cache
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.dll
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.pdb
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.genruntimeconfig.cache
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Primary\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.exe
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.deps.json
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.runtimeconfig.json
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.runtimeconfig.dev.json
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.dll
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.pdb
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.csprojAssemblyReference.cache
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2_MarkupCompile.cache
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2_MarkupCompile.lref
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.g.resources
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.AssemblyInfoInputs.cache
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.AssemblyInfo.cs
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.dll
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.pdb
+C:\Users\hemant.mohapatra\Desktop\New folder\Assignments_11_11_2020\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.genruntimeconfig.cache
